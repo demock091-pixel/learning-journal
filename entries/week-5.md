@@ -1,6 +1,6 @@
 # Minggu 5 — Algoritma Keygen (FindLicenseKey)
 
-**Tanggal:** [3 Juli 2026]
+**Tanggal:** [5 Juli 2026]
 
 ## Topik
 Menganalisis crackme "FindLicenseKey" yang menggunakan algoritma substitusi tabel berbasis input.
