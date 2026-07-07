@@ -1,6 +1,6 @@
 # Minggu 2 — Operasi Bitwise
 
-**Tanggal:** [3 Juli 2026]
+**Tanggal:** [1 Juli 2026]
 
 ## Topik
 Belajar operasi bitwise (`&`, `|`, `^`, `<<`, `>>`) dan kegunaannya di reverse engineering.
